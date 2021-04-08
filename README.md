@@ -1,6 +1,7 @@
 This contains the code for computing arbitrage portfolios as in the paper
 
-https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhaa102/5902462
+* https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhaa102/5902462
+* https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3263001
 
 with Soohun Kim and Robert Korajczyk.
 
