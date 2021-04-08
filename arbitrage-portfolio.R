@@ -22,7 +22,7 @@ target_vol       <- 0.2 # annualized
 ########################################################################
 # Data
 ########################################################################
-X <- readRDS("kkn-replication-data.RDS")
+X <- readRDS("kkn-replication-data-small.RDS")
 
 # column names of the characteristics
 characteristics <- names(X)[5:ncol(X)]
